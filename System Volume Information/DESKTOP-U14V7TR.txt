@@ -1,0 +1,48 @@
+
+System Specifications:
+------------------------------
+Operating System: Windows 10 (Version: 10.0.19045)
+System Name: DESKTOP-U14V7TR
+------------------------------
+Processor: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz
+Physical Cores: 2
+Logical Cores (Threads): 4
+------------------------------
+
+Memory Information:
+------------------------------------------------------------------------------------------
+Capacity (GB)  DeviceLocator  DDR Version Manufacturer   PartNumber          Speed (MHz)
+------------------------------------------------------------------------------------------
+4              DIMM A         Unknown     0              M471A5244CB0-CTD    2133      
+8              DIMM B         Unknown     0              16ATF1G64HZ-2G1B1   2133      
+
+------------------------------
+Storage:
+C:\ - 134.97 GB Total
+D:\ - 82.88 GB Total
+E:\ - 20.0 GB Total
+F:\ - 29.48 GB Total
+------------------------------
+Graphics Processor (GPU): Intel(R) HD Graphics 520
+------------------------------
+Battery Status: 89% Charging
+Time Left: N/A minutes
+------------------------------
+Network Information:
+Interface: Ethernet, IP: 169.254.76.175
+Interface: Ethernet, IPv6: fe80::ec98:c0e0:a7e:9c94
+Interface: vEthernet (WSL), IP: 172.31.144.1
+Interface: vEthernet (WSL), IPv6: fe80::9044:6b2e:8c15:756e
+Interface: Ethernet 2, IP: 192.168.56.1
+Interface: Ethernet 2, IPv6: fe80::e6ae:52ee:3185:5bc0
+Interface: Local Area Connection* 1, IP: 169.254.178.233
+Interface: Local Area Connection* 1, IPv6: fe80::e4f5:fac0:278e:2815
+Interface: Local Area Connection* 2, IP: 169.254.120.32
+Interface: Local Area Connection* 2, IPv6: fe80::9a15:f21f:368b:e8c8
+Interface: Wi-Fi, IP: 192.168.0.108
+Interface: Wi-Fi, IPv6: fe80::3bbd:c75a:5751:1980
+Interface: Loopback Pseudo-Interface 1, IP: 127.0.0.1
+Interface: Loopback Pseudo-Interface 1, IPv6: ::1
+------------------------------
+Last Boot Time: 2025-01-15 14:04:47
+------------------------------

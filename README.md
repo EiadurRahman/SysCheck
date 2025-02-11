@@ -28,6 +28,8 @@ To install missing dependencies, run:
 pip install psutil
 ```
 
+**Compiled will be available soon**
+
 ## Usage
 1. Run the script using Python:
    ```sh

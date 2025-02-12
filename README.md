@@ -1,3 +1,5 @@
+![alt text](<assets/syscheck.png>)
+
 # System Information Script (Windows Only)
 
 ## Overview

@@ -33,7 +33,7 @@ pip install psutil
 ## Usage
 1. Run the script using Python:
    ```sh
-   python system_info.py
+   python SysCheck.py
    ```
 2. The system specifications will be displayed in the terminal and saved as a text file.
 

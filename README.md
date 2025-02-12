@@ -30,7 +30,7 @@ To install missing dependencies, run:
 pip install psutil
 ```
 
-**Compiled will be available soon**
+**Compiled versions are available in `bin/`**
 
 ## Usage
 1. Run the script using Python:
